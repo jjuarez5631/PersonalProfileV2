@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Jose Juarez</string>
+    <string name="txt_caption"></string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Jose likes to be active. He likes to explore and travel to different places.
+        He likes to watch sports such as soccer, football, and basketball.
+    </string>
+</resources>
